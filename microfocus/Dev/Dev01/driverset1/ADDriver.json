@@ -7,7 +7,7 @@
     "packageVersion" : "1.0"
   },
   "driverFeaturedPackage" : [ {
-    "packageId" : "welcome",
+    "packageId" : "hello",
     "packageName" : "string",
     "packageVersion" : "string"
   } ],
